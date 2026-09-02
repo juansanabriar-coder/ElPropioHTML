@@ -1,0 +1,35 @@
+
+html {
+  background: lightblue;
+  margin: 0;
+}
+section{
+  background: lightcyan;
+  padding; 30px 10px;
+}
+.contenedor{
+  background: lightgreen;
+  max-width: 1200px;
+  margin: auto; 
+}
+
+form{
+  background-color: blanchedalmond; 
+    width: 40%;
+}
+
+label{
+  font-family: fantasy;
+  color: black;
+  display: block;
+ 
+}
+
+input{
+  display: block;
+  width: 100;
+  box-sizing: border-box; /*Para dejar el borde calculado automatico*/
+  border : solid 0 transparent;
+  padding: 10px 15px;
+  margin: 10px 0;
+}
